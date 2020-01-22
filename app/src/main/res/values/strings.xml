@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="home">Home</string>
+    <string name="current_city">Current City Forecast</string>
+    <string name="city_forecast">City Forecast</string>
+    <string name="navigate_city_forecast">Go to City Forecast</string>
+    <string name="navigate_current_city_forecast">Go to Current City Forecast</string>
+    <string name="current_location">Get current location forecast</string>
+    <string name="an_error_has_occurred">An error has occurred</string>
+    <string name="wind_speed">Wind Speed : %1$s km/h </string>
+    <string name="hint_text">Enter cities name</string>
+    <string name="get_forecast">Get forecast</string>
+    <string name="less_then_three">Please enter at least 3 cities separated by a comma</string>
+    <string name="less_then_three_distinct">Please enter at least 3 distinct cities separated by a comma</string>
+    <string name="more_then_seven">Please enter a maximum of 7 cities separated by a comma</string>
+    <string name="more_then_seven_distinct">Please enter a maximum of 7 distinct cities separated by a comma</string>
+    <string name="degree_celsius">°</string>
+    <string name="settings">Settings</string>
+    <string name="permission_rationale">Location permission is needed for getting current location forecast.</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for getting current location forecast.</string>
+</resources>
