@@ -1,6 +1,5 @@
 package com.application.weatherforecast.presentation.viewmodel
 
-import android.text.TextUtils
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.application.weatherforecast.di.DaggerApiComponent
