@@ -1,6 +1,6 @@
 # Weather Forecast Application
 
-A simple weather application using MVVM clean architecture, Dagger2, Retrofit2 and RxJava that retrieves weather forecast.
+A simple weather application using MVVM clean architecture, Android Jetpack, Dagger2, Retrofit2 and RxJava that retrieves weather forecast.
 Version 1.0
 
 ## Getting Started
